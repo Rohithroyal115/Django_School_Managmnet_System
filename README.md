@@ -1,4 +1,4 @@
-# Django_School_Managmnet_System
+# Django_School_Management_System
 The School Management System is a comprehensive web-based application developed using Django that streamlines and automates the academic and administrative operations of an educational institute. The project implements secure authentication and authorization using Django’s built-in authentication framework, ensuring that only authenticated users can access the system and that functionalities are strictly controlled based on user roles such as Admin, Teacher, and Student. Each role has clearly defined permissions, preventing unauthorized access to sensitive data and operations.
 
 The system includes a fully integrated Fee Payment Module that allows students to pay their academic fees online through a payment gateway (such as Razorpay or Stripe). This module ensures secure transaction processing, maintains detailed payment records, and updates fee status automatically upon successful payment. Administrators can track payment history, verify transactions, and generate fee-related reports, which significantly reduces manual bookkeeping and errors.
